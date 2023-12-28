@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "vite-plugin-glsl": "^1.2.1"
+  }
+}

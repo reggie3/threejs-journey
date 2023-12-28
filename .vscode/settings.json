@@ -1,0 +1,20 @@
+{
+  "cSpell.words": [
+    "ambeint",
+    "Broadphase",
+    "clearcoat",
+    "GLTF",
+    "helvetiker",
+    "lerp",
+    "matcap",
+    "matcaps",
+    "metalness",
+    "Mipmaps",
+    "Phong",
+    "Raycaster",
+    "Toon",
+    "wireframe"
+  ],
+  "webgl-glsl-editor.format.placeBracesOnSeparateLine": true,
+  "glsllint.glslangValidatorPath": "/home/reggie/glslang-master-linux-Release/bin/glslangValidator"
+}

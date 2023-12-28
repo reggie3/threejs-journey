@@ -1,0 +1,7 @@
+Vertex Shader:
+attributes - data sent to a vertex shader that is different for each vertex
+uniforms - data that is the same for each vertex
+
+Fragment shader
+uniforms - same
+varying - data sent from the vertex shader to the fragment shader.  Values in between vertices are interpolated

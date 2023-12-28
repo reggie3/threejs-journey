@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+/* 
+If you want to remove any type of scrolling even on touch screens, you can add an overflow: hidden on both html and body
+ */
+html,
+body {
+  overflow: hidden;
+}
+
+body {
+  background-color: hotpink;
+}
+
+canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+
+  /* This is a good opportunity to fix a small problem on our canvas. 
+  Maybe you've noticed a blue outline on it when drag and dropping. 
+  This mostly happens on latest versions of Chrome. 
+  To fix that, we can simply add an outline: none; on the .webgl: */
+  outline: none;
+}
